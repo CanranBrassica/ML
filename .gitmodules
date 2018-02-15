@@ -1,0 +1,3 @@
+[submodule "kyabepy"]
+	path = kyabepy
+	url = https://github.com/CanranBrassica/kyabepy
